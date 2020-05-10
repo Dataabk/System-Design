@@ -2,6 +2,6 @@
 
 | Name                                                                      | URL                                                      |
 | ------------------------------------------------------------------------- | -------------------------------------------------------- |
-|  Grokking System Design Interview                        | https://tinyurl.com/y9btoqgd              |
+|  Grokking System Design Interview                        | https://tinyurl.com/y7mn22sc              |
 
 
